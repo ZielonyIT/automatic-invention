@@ -10,6 +10,7 @@ class Result {
 
     /*
      * Complete the 'sockMerchant' function below.
+     * https://www.hackerrank.com/challenges/sock-merchant/problem
      *
      * The function is expected to return an INTEGER.
      * The function accepts following parameters:
